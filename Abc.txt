@@ -1,3 +1,23 @@
-git init
-git add
-git commit -m "Message"
+// Vscode install and also git isntall and also github account creation
+// In vscode c++ env set and also compiler env set
+// Open vscode and setfolder and also c++ file run using g++ 
+// New terminal created and opened git bash and did following commands
+
+//second way of opening vscode through command prompt
+
+Linux commands
+drivename: // it will move directly to drivename
+cd filename // it will move to folder
+mkdir filename// It will create file
+code . // it will open Vscode 
+cd .. // Move one step back to root folder
+
+git commands
+git init // Empty repository creation
+git add filename // untracked to tracked state
+git status // What are the changes done in env
+git commit -m "Message"// check-in in git env
+
+//if error in commit
+git config --global user.name "username"
+git config --global user.email "uremail"

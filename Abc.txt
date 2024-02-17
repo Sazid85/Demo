@@ -20,4 +20,4 @@ git commit -m "Message"// check-in in git env
 
 //if error in commit
 git config --global user.name "username"
-git config --global user.email "uremail"
+git config --global user.email uremail

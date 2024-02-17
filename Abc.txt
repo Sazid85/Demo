@@ -23,9 +23,5 @@ git checkout branchname // Moving or checking out branchname
 //if error in commit
 git config --global user.name "username"
 git config --global user.email uremail
-Bug Bug 
-Bug 
-Bug 
-Bug
-Bug
+
 

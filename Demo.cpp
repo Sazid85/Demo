@@ -16,6 +16,7 @@ int main()
     cout<<"Grapes added"<<endl;
 
     cout<<"Application Menu added"<<endl;
+    cout<<"Dialog box added"<<endl;
 
     return 0;
 }

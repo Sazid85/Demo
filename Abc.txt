@@ -17,6 +17,8 @@ git init // Empty repository creation
 git add filename // untracked to tracked state
 git status // What are the changes done in env
 git commit -m "Message"// check-in in git env
+git branch branchname // Creating new branch
+git checkout branchname // Moving or checking out branchname
 
 //if error in commit
 git config --global user.name "username"

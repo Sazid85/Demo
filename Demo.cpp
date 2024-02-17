@@ -17,6 +17,7 @@ int main()
 
     cout<<"Application Menu added"<<endl;
     cout<<"Dialog box added"<<endl;
+    cout<<"Handled thread function to run some sql databases"<<endl;
 
     return 0;
 }

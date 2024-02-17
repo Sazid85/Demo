@@ -10,5 +10,12 @@ int main()
     std::cout<<"Hello Hi Bye"<<std::endl;
     cout<<"World"<<endl;
     cout<<add(10,20)<<endl;
+
+    cout<<"Apples added"<<endl;
+    cout<<"Oranges added"<<endl;
+    cout<<"Grapes added"<<endl;
+
+    cout<<"Application Menu added"<<endl;
+
     return 0;
 }

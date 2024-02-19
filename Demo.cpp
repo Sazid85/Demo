@@ -31,5 +31,8 @@ int main()
 
    cout<<"Handled OnPaint()";
    cout<<"Handled Timer";
+
+   
+
     return 0;
 }

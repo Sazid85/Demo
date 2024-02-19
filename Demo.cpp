@@ -23,5 +23,13 @@ int main()
 
     cout<<add(10,20);
    
+   cout<<"Bitmaps added for icons";
+   cout<<"Themes added for screens using JS";
+   
+   cout<<"ABC";
+   cout<<"XYZ";
+
+   cout<<"Handled OnPaint()";
+   cout<<"Handled Timer";
     return 0;
 }

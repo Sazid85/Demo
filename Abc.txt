@@ -22,10 +22,24 @@ git commit --amend // To changes previous commit
 
 git branch branchname // Creating new branch
 git checkout branchname // Moving or checking out branchname
+git swtich branchname // Moving or swtiching to branch
+git switch -c branchname // Create and checkout to new branch
 git merge branchname // Note check head before merging
+
+git stash // it modified content to stack
+git stash pop // it removes and places in our code
+git stash list // list out multiple stashes
+git stash apply // It will apply latest stash
+git stash apply stashid // It will apply paticular stash
 
 git diff // Differentiate untracked files // red colour files difference
 git diff HEAD //Differentiate unstaged files // Green colour files difference
+
+// For Pushing Git(local) to GitHub(Web)
+git remote add origin https://github.com/Sazid85/Abc.git
+//We are adding remote origin to our local git
+git branch -M main //It will change brachname
+git push -u origin main // It will push to github
 
 //if error in commit
 git config --global user.name "username"

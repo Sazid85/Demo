@@ -32,7 +32,7 @@ int main()
    cout<<"Handled OnPaint()";
    cout<<"Handled Timer";
 
-   
-
+   cout<<"Log files handled";
+   cout<<"Threads added";
     return 0;
 }

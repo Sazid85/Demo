@@ -7,16 +7,10 @@ int add(int a, int b)
 }
 int main()
 {
-    std::cout<<"Hello Hi Bye"<<std::endl;
-    cout<<"World"<<endl;
-    cout<<add(10,20)<<endl;
+    cout<<"Some new application designed for responsive application";
+    cout<<"MFC + Javascript";
 
-    cout<<"Apples added"<<endl;
-    cout<<"Oranges added"<<endl;
-    cout<<"Grapes added"<<endl;
-
-    cout<<"Application Menu added"<<endl;
-    
+    cout<<add(10,20);
    
     return 0;
 }

@@ -18,6 +18,10 @@ int main()
     cout<<"Application Menu added"<<endl;
     cout<<"Dialog box added"<<endl;
     cout<<"Handled thread function to run some sql databases"<<endl;
+    cout<<"Some new application designed for responsive application";
+    cout<<"MFC + Javascript";
 
+    cout<<add(10,20);
+   
     return 0;
 }

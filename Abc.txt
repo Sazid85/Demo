@@ -17,8 +17,20 @@ git init // Empty repository creation
 git add filename // untracked to tracked state
 git status // What are the changes done in env
 git commit -m "Message"// check-in in git env
+<<<<<<< HEAD
 git branch branchname // Creating new branch
 git checkout branchname // Moving or checking out branchname
+=======
+git commit -a -m "Message"// Check-in + adding
+git commit --amend // To changes previous commit
+
+git branch branchname // Creating new branch
+git checkout branchname // Moving or checking out branchname
+git merge branchname // Note check head before merging
+
+git diff // Differentiate untracked files // red colour files difference
+git diff HEAD //Differentiate unstaged files // Green colour files difference
+>>>>>>> branch1
 
 //if error in commit
 git config --global user.name "username"
